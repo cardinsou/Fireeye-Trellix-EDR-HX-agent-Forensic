@@ -48,7 +48,7 @@ As previously mentioned, the path from wich you open the DB must contain the db 
 
 ### Sqlcipher
 
-You can install it from the repo (eg. ubuntu: apt-get install sqlcipher) and execute the following commands to save the DB in un-ecrypted format:
+You can install it from the repo (eg. ubuntu: apt-get install sqlcipher) and execute the following commands to save the DB in un-encrypted format:
 
 ```
 user$ sqlcipher

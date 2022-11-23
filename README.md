@@ -236,7 +236,6 @@ options:
   -o          CSV output file
   -f          Date filter "UTC ISO8601 start timestamp / UTC ISO8601 stop timestamp" eg. "2022-03-04 00:00:00 / 2022-05-15 23:34:59"
   -s          CSV column separator default: ","
-
 ```
 
 Example:

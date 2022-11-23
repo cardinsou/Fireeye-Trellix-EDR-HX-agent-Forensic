@@ -360,7 +360,6 @@ options:
   -s          CSV column separator - default: ","
   -j          Path to magic number json DB
   -e          Source system encoding - default iso8859-1
-  
 ```
 Example:
 ```

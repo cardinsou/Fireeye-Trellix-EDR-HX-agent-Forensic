@@ -1,4 +1,4 @@
-# Fireeye EDR HX agent Forensic
+# Fireeye/Trellix EDR HX agent Forensic
 
 During an assignment, we noticed that a couple of compromised machines didn't poll the EDR console for some time. Checking on the machines, the EDR agent was running (process xagt.exe), but it didn't send events or alarms to the main console, so we had a couple of compromised machines that recorded events but we weren't able to recover those events. We already DDed the compromised machine so we tried to find an alternative way to recover data.
 
